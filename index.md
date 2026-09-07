@@ -1,0 +1,1 @@
+# Demo KB — see [Policy](policies/refund.md)
