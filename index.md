@@ -1,1 +1,1 @@
-# Demo KB — see [Policy](policies/refund.md)
+# Demo KB — see [Refund Policy](policies/refund.md) | [Member Discount Policy](policies/member-discount.md)
